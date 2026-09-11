@@ -21,17 +21,17 @@ Netcat (nc)
 SSL/TLS with OpenSSL
 SSH keys and authentication
 Basic cybersecurity concepts
-Levels Completed
-Level	 Main Concept
-0 → 1	 SSH and reading files
-1 → 2	Filenames beginning with -
-2 → 3	Filenames containing spaces
-3 → 4	Hidden files
-4 → 5	Identifying file types
-5 → 6	Finding files by size
-6 → 7	Finding files by owner, group and size
-7 → 8	Searching text with grep
-8 → 9	sort and uniq
+Levels  Completed
+Level	  Main Concept
+0 → 1	  SSH and reading files
+1 → 2	  Filenames beginning with -
+2 → 3	  Filenames containing spaces
+3 → 4	  Hidden files
+4 → 5	  Identifying file types
+5 → 6	  Finding files by size
+6 → 7	  Finding files by owner, group and size
+7 → 8	  Searching text with grep
+8 → 9	  sort and uniq
 9 → 10	Extracting readable strings
 10 → 11	Base64 decoding
 11 → 12	ROT13 decoding

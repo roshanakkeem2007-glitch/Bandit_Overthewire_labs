@@ -21,24 +21,26 @@ Netcat (nc)
 SSL/TLS with OpenSSL
 SSH keys and authentication
 Basic cybersecurity concepts
-Levels  Completed
-Level	  Main Concept
-0 → 1	  SSH and reading files
-1 → 2	  Filenames beginning with -
-2 → 3	  Filenames containing spaces
-3 → 4	  Hidden files
-4 → 5	  Identifying file types
-5 → 6	  Finding files by size
-6 → 7	  Finding files by owner, group and size
-7 → 8	  Searching text with grep
-8 → 9	  sort and uniq
-9 → 10	Extracting readable strings
-10 → 11	Base64 decoding
-11 → 12	ROT13 decoding
-12 → 13	Multiple compression and archive layers
-13 → 14	SSH private key authentication
-14 → 15	Netcat and network services
-15 → 16	SSL/TLS with OpenSSL
+## Progress
+
+| Level | Status | Main Concepts |
+|------:|:------:|---------------|
+| 0 → 1 | ✅ | SSH, ls, cat |
+| 1 → 2 | ✅ | Special filenames |
+| 2 → 3 | ✅ | Spaces in filenames |
+| 3 → 4 | ✅ | Hidden files |
+| 4 → 5 | ✅ | file command |
+| 5 → 6 | ✅ | find |
+| 6 → 7 | ✅ | find, permissions |
+| 7 → 8 | ✅ | grep |
+| 8 → 9 | ✅ | sort, uniq |
+| 9 → 10 | ✅ | strings, grep |
+| 10 → 11 | ✅ | Base64 |
+| 11 → 12 | ✅ | ROT13, tr |
+| 12 → 13 | ✅ | gzip, bzip2, tar, xxd |
+| 13 → 14 | 🔄 | SSH private key |
+
+```bash
 Repository Structure
 OverTheWire/
 │
